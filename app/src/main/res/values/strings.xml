@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">WaveA</string>
+    <string name="allow_permission">Allow permission</string>
+    <string name="open_setting_and_manually_allow_permission">Open settings and manually allow permission</string>
 </resources>
